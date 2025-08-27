@@ -1,0 +1,10 @@
+package sec03.exam03.ByteOperationExample;
+
+public class ByteOperationExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
