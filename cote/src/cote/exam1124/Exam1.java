@@ -14,7 +14,7 @@ public class Exam1 {
 			System.out.println(values[0]);
 		}catch(InputMismatchException e) {
 			System.out.println(values[0]);
-		}bg
+		}
 	}
 	public static int getIndex() throws InputMismatchException {
 		Scanner scanner = new Scanner(System.in);
